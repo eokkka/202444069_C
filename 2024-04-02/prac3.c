@@ -25,7 +25,7 @@ while(1){
             return 0;
         }  
         else
-            printf("잘못 입력하였습니다.\n");
+            printf("\n잘못 입력하였습니다.\n");
 
     }
 }
